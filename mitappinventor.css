@@ -1,0 +1,72 @@
+body{
+	font-family: "Impact", fantasy;
+	color: HOTPINK;
+	text-align: center
+    }
+body{
+    background: linear-gradient(to bottom, #ff99ff 0%, #99ff99 100%);
+}
+ div{
+ 	margin: auto
+ }
+.row{
+	margin-left: auto;
+	margin-right: auto;
+	color: MISTYROSE;
+}
+.firstEntry, .secondEntry{
+	text-align: center;
+	font-family: "Palatino";
+ 	color: MISTYROSE;
+}
+
+.row {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+
+h2  {
+	font-family: "Impact";
+	font-size: 40px;
+ 	text-align: center;
+ 	color: PLUM;
+ 	text-shadow: 2px 2px thistle;
+    }
+h3  {
+	font-size:18px;
+	font-family: "Comic Sans MS";
+	color: SKYBLUE;
+}
+a:link {
+    color: MEDIUMPURPLE;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 40px;
+}
+a:visited {
+    color: LIGHTSALMON;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: MEDIUMVIOLETRED;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: GOLD;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.firstEntry, .secondEntry{
+    background-color: LAVENDER;
+}
+.lastRow1, .lastRow2{
+    background-color: LIGHTCYAN;
+}
+h4{
+    font-size:20px;
+    font-family: "Comic Sans MS";
+    color: PURPLE;
+}

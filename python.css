@@ -1,0 +1,90 @@
+body{
+	font-family: "Impact", fantasy;
+	color: BLANCHEDALMOND;
+	text-align: center
+    }
+body{
+    background: linear-gradient(to bottom, #0099ff 0%, #ffff99 100%);
+}
+ div{
+ 	margin: auto
+ }
+.row{
+	margin-left: auto;
+	margin-right: auto;
+	color: BLANCHEDALMOND;
+}
+.firstEntry, .secondEntry, .thirdEntry {
+	text-align: center;
+	font-family: "Palatino";
+ 	color: BLANCHEDALMOND;
+}
+
+.row {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+
+h2  {
+	font-family: "Impact";
+	font-size: 40px;
+ 	text-align: center;
+ 	color: MEDIUMAQUAMARINE;
+ 	text-shadow: 2px 2px lavender;
+    }
+h3  {
+	font-size:18px;
+	font-family: "Comic Sans MS";
+	color: DEEPSKYBLUE;
+}
+a:link {
+    color: MEDIUMPURPLE;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 40px;
+}
+a:visited {
+    color: LIGHTSALMON;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: MEDIUMVIOLETRED;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: GOLD;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.firstEntry, .secondEntry, .thirdEntry{
+    background-color: PALETURQUOISE;
+}
+.firstEntryb, .secondEntryb, .thirdEntryb{
+    background-color: GAINSBORO;
+}
+.firstEntryc, .secondEntryc, .thirdEntryc{
+    background-color: LIGHTYELLOW;
+}
+.firstEntryd, .secondEntryd, .thirdEntryd{
+    background-color: LIGHTCYAN;
+}
+.lastRow1, .lastRow2, .lastRow3{
+    background-color: BLANCHEDALMOND;
+}
+.firstEntrya, .secondEntrya, .thirdEntrya{
+    background-color: LAVENDERBLUSH;
+}
+h4{
+    font-size:20px;
+    font-family: "Comic Sans MS";
+    color: GOLD;
+}
+h5{
+    font-size:18px;
+    font-family: "Comic Sans MS";
+    color: ORANGE;
+    font-style: italic;
+}

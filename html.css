@@ -1,0 +1,79 @@
+body{
+	font-family: "Impact", fantasy;
+	color: HOTPINK;
+	text-align: center
+    }
+body{
+    background: linear-gradient(to bottom, #666699 0%, #ff9966 100%);
+}
+ div{
+ 	margin: auto
+ }
+.row{
+	margin-left: auto;
+	margin-right: auto;
+	color: MISTYROSE;
+}
+.firstEntry, .secondEntry, .thirdEntry {
+	text-align: center;
+	font-family: "Palatino";
+ 	color: MISTYROSE;
+}
+
+.row {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+
+h2  {
+	font-family: "Impact";
+	font-size: 40px;
+ 	text-align: center;
+ 	color: CHOCOLATE;
+ 	text-shadow: 2px 2px thistle;}
+
+h1  {
+	font-family: "Comic Sans MS";
+	font-size: 10px;
+ 	text-align: center;
+ 	color: MEDIUMPURPLE;
+ 	text-shadow: 1px 1px thistle;
+    }
+h3  {
+	font-size:18px;
+	font-family: "Comic Sans MS";
+	color: ORANGE;
+}
+a:link {
+    color: SALMON;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 18px;
+}
+a:visited {
+    color: LIGHTBLUE;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: MEDIUMVIOLETRED;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: GOLD;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.firstEntry, .secondEntry, .thirdEntry{
+    background-color: AZURE;
+}
+.lastRow1, .lastRow2, .lastRow3{
+    background-color: BLANCHEDALMOND;
+}
+h4{
+    font-size:25px;
+    font-family: "Comic Sans MS";
+    color: CORAL;
+}

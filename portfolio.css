@@ -1,0 +1,82 @@
+body{
+	font-family: "Impact", fantasy;
+	color: HOTPINK;
+	text-align: center
+    }
+body{
+    background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+}
+ div{
+ 	margin: auto
+ }
+.row{
+	margin-left: auto;
+	margin-right: auto;
+	color: MISTYROSE;
+}
+.firstEntry, .secondEntry, .thirdEntry, .fourthEntry, .lastRow1, .lastRow2, .lastRow3 {
+	text-align: center;
+	font-family: "Comic Sans MS";
+ 	color: MISTYROSE;
+}
+.secondEntry, .lastRow2 {
+	font-family: "Comic Sans MS", fantasy;
+ 	color: MISTYROSE;
+    }  
+h1  {
+ 	font-size: 50px;
+ 	text-align: center;
+ 	color: HOTPINK;
+ 	text-shadow: 2px 2px darkviolet;
+    }
+.row {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+h2  {
+	font-family: "Arial";
+	font-size: 40px;
+ 	text-align: center;
+ 	color: PEACHPUFF;
+ 	text-shadow: 2px 2px thistle;
+    }
+h3  {
+	font-size:18px;
+	text-align: center;
+	font-family: "Palatino";
+	color: LIGHTSKYBLUE;
+}
+a:link {
+    color: MEDIUMPURPLE;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: LIGHTSALMON;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: MEDIUMVIOLETRED;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: GOLD;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.https {
+	color: MISTYROSE;
+}
+.firstEntry, .lastRow1{
+	text-align: center;
+	background-color: GHOSTWHITE;
+	}
+.secondEntry, .lastRow2{
+	background-color: AZURE;
+}
+.thirdEntry, .lastRow3{
+	background-color: LAVENDERBLUSH;
+}
